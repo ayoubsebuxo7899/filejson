@@ -1,0 +1,64 @@
+{
+   "Ads":{
+      "AdMob":{
+         "activated":true,
+         "banner":"ca-app-pub-3940256099942544/6300978111",
+         "native":"ca-app-pub-3940256099942544/2247696110",
+         "interstitial":"ca-app-pub-3940256099942544/1033173712"
+      },
+      "FAN":{
+         "activated":false,
+         "banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "interstitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      },
+      "Yandex":{
+         "activated":false,
+         "banner":"R-M-DEMO-320x50",
+         "native":"R-M-DEMO-native-i",
+         "interstitial":"R-M-DEMO-240x400-context"
+      },
+      "Unity":{
+         "activated":false,
+         "game_id":"R-M-DEMO-320x50",
+         "banner":"R-M-DEMO-native-i",
+         "interstitial":"R-M-DEMO-240x400-context"
+      },
+      "ironSource":{
+         "activated":false,
+         "app_key":"85460dcd"
+      },
+      "tapDaq":{
+         "activated":false,
+         "app_id":"xxxxxxxxxxxxxxxx",
+         "client_key":"xxxxxxxxxxxxxx",
+         "placement_tag":"default"
+      }
+   },
+   "Config":{
+      "app_version":"1.0",
+      "package_name":"com.devat.guide1",
+      "onesignal_id":"3785f87a-0309-4e8e-99de-ead510baf870",
+      "loadingTime":5,
+      "privacy_dialog":false,
+      "privacy_url":"https://www.google.com/",
+      "rate_dialog":false
+   },
+   "GuideContent":[
+      {
+         "title":"Article 1",
+         "image":"https://img.onmanorama.com/content/dam/mm/en/entertainment/movie-reviews/images/2021/9/28/squid-game-review-1.jpg",
+         "description":"All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood."
+      },
+      {
+         "title":"Article 2",
+         "image":"https://img.onmanorama.com/content/dam/mm/en/entertainment/movie-reviews/images/2021/9/28/squid-game-review-1.jpg",
+         "description":"Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status."
+      },
+      {
+         "title":"Article 3",
+         "image":"https://img.onmanorama.com/content/dam/mm/en/entertainment/movie-reviews/images/2021/9/28/squid-game-review-1.jpg",
+         "description":"All are equal before the law and are entitled without any discrimination to equal protection of the law. All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination."
+      }
+   ]
+}

@@ -14,9 +14,9 @@
       },
       "Yandex":{
          "activated":true,
-         "banner":"R-M-1765779-1",
-         "native":"R-M-1765779-3",
-         "interstitial":"R-M-1765779-2"
+          "banner":"R-M-DEMO-320x50",
+         "native":"R-M-DEMO-native-i",
+         "interstitial":"R-M-DEMO-240x400-context"
       },
       "Unity":{
          "activated":false,

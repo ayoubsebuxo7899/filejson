@@ -1,0 +1,64 @@
+{
+   "Ads":{
+      "AdMob":{
+         "activated":false,
+         "banner":"ca-app-pub-3940256099942544/6300978111",
+         "native":"ca-app-pub-3940256099942544/2247696110",
+         "interstitial":"ca-app-pub-3940256099942544/1033173712"
+      },
+      "FAN":{
+         "activated":false,
+         "banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "interstitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      },
+      "Yandex":{
+         "activated":true,
+         "banner":"R-M-1765779-1",
+         "native":"R-M-1765779-3",
+         "interstitial":"R-M-1765779-2"
+      },
+      "Unity":{
+         "activated":false,
+         "game_id":"R-M-DEMO-320x50",
+         "banner":"R-M-DEMO-native-i",
+         "interstitial":"R-M-DEMO-240x400-context"
+      },
+      "ironSource":{
+         "activated":false,
+         "app_key":"85460dcd"
+      },
+      "tapDaq":{
+         "activated":false,
+         "app_id":"xxxxxxxxxxxxxxxx",
+         "client_key":"xxxxxxxxxxxxxx",
+         "placement_tag":"default"
+      }
+   },
+   "Config":{
+      "app_version":"1.0",
+      "package_name":"com.feedbobish.leftas",
+      "onesignal_id":"3785f87a-0309-4e8e-99de-ead510baf870",
+      "loadingTime":5,
+      "privacy_dialog":false,
+      "privacy_url":"https://www.google.com/",
+      "rate_dialog":false
+   },
+   "GuideContent":[
+       {
+         "title":" Fish Queen Location",
+         "image":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/11474502/f1c4fbd50d78350c222898010609898a77d2a312.png",
+         "description":"In the Power room head to the very end of the room to encounter a socket that is covered. Use the Blue hand to open this cover on the socket. Once the socket is open shoot the Blue hand onto the exposed socket. Hold the Blue hand there and walk around the two electricity conducting poles in the room leading back to the front. Doing this correctly turns the power back on"
+      },
+       {
+         "title":"Get the fish",
+         "image":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/11474502/f1c4fbd50d78350c222898010609898a77d2a312.png",
+         "description":"Head forward through this room past the Yellow VCR and go up the stairs onto the catwalk. On the catwalk walk forward until you reach a control panel. Next to the control panel is a Blue Fuse on the ground and a gap in the railing. Grab the fuse and place it into the control panel then drop down to the floor below using the gap in the railing."
+      },
+      {
+         "title":"about feed fish",
+         "image":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/11474502/f1c4fbd50d78350c222898010609898a77d2a312.png",
+         "description":"Once you have the Blue hand head back to the reception area. Jump over the turn-style by the front desk to reach a door with a blue hand above it. Shoot your blue hand at the switch to open the door. This door leads you to the factory and the real start of the scary section of the game."
+      }
+   ]
+}

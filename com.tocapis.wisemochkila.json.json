@@ -44,21 +44,27 @@
       "privacy_url":"https://www.google.com/",
       "rate_dialog":false
    },
-   "GuideContent":[
-       {
-         "title":" Fish Queen Location",
-         "image":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/11474502/f1c4fbd50d78350c222898010609898a77d2a312.png",
-         "description":"In the Power room head to the very end of the room to encounter a socket that is covered. Use the Blue hand to open this cover on the socket. Once the socket is open shoot the Blue hand onto the exposed socket. Hold the Blue hand there and walk around the two electricity conducting poles in the room leading back to the front. Doing this correctly turns the power back on"
-      },
-       {
-         "title":"Get the fish",
-         "image":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/11474502/f1c4fbd50d78350c222898010609898a77d2a312.png",
-         "description":"Head forward through this room past the Yellow VCR and go up the stairs onto the catwalk. On the catwalk walk forward until you reach a control panel. Next to the control panel is a Blue Fuse on the ground and a gap in the railing. Grab the fuse and place it into the control panel then drop down to the floor below using the gap in the railing."
-      },
+    "GuideContent":[
       {
-         "title":"about feed fish",
-         "image":"https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/11474502/f1c4fbd50d78350c222898010609898a77d2a312.png",
-         "description":"Once you have the Blue hand head back to the reception area. Jump over the turn-style by the front desk to reach a door with a blue hand above it. Shoot your blue hand at the switch to open the door. This door leads you to the factory and the real start of the scary section of the game."
+         "title":"abilities are available to the daddy character",
+         "image":"https://repack-games.com/wp-content/uploads/2022/01/Whos-Your-Daddy-Repack-Games-FREE.jpg",
+         "description":"In Who's Your Daddy, the player controlling the daddy can access a number of different abilities and powers. Peek-A-Boo makes the character invisible, Bad Dad allows the baby to be seen through solid walls, and Say Momma makes certain significant objects visible through walls. These powers can be obtained by carrying out household chores such as cleaning up. However, these chores take time, raising the possibility of the baby getting harmed in the process."
+      },
+        {
+         "title":"abilities are available to the daddy character",
+         "image":"https://repack-games.com/wp-content/uploads/2022/01/Whos-Your-Daddy-Repack-Games-FREE.jpg",
+         "description":"In Who's Your Daddy, the player controlling the daddy can access a number of different abilities and powers. Peek-A-Boo makes the character invisible, Bad Dad allows the baby to be seen through solid walls, and Say Momma makes certain significant objects visible through walls. These powers can be obtained by carrying out household chores such as cleaning up. However, these chores take time, raising the possibility of the baby getting harmed in the process."
+      },
+ {
+         "title":"What is Who's Your Daddy?",
+         "image":"https://repack-games.com/wp-content/uploads/2022/01/Whos-Your-Daddy-Repack-Games-FREE.jpg",
+         "description":"Who's Your Daddy is a game for two players: one controls a parent, the other controls a baby. Each has their own goal: the daddy's goal is to ensure that the baby makes it to the end of the round, while the baby's goal is to sustain injury. Contrary to convention, this is a game where one of the players is rewarded for getting hurt."
+      },
+     
+      {
+         "title":"What does the gameplay of Who's Your Daddy involve?",
+         "image":"https://repack-games.com/wp-content/uploads/2022/01/Whos-Your-Daddy-Repack-Games-FREE.jpg",
+         "description":"the gameplay is different for each player. The player controlling the baby must avoid the daddy and find a means of sustaining damage using household objects. The player controlling the daddy must stop the baby at all turns, blocking off dangerous objects and obtaining special abilities through performing certain actions. As any parent knows, there are plenty of dangers around the household, and the game portrays this. The baby character can stick a fork in an electrical socket, climb into an oven, fall into a full bathtub, or drink hazardous chemicals. The father can prevent these disasters using special objects such as outlet covers"
       }
    ]
 }

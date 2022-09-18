@@ -1,0 +1,30 @@
+{
+    "GameUrl": "https://play.famobi.com/om-nom-run",
+    "Ads_Config": [
+        {
+            "Network": "huawei",
+            "Banner": "testw6vs28auh3",
+            "Interstitial": "testb4znbuh3n2",
+            "Native": "testy63txaom86",
+            "NativeBanner": "",
+            "AppId":""
+        }
+    ],
+    "Content": [
+        {
+            "Title": "Title",
+            "Description": "content.",
+            "ImageContent": ""
+        },
+        {
+            "Title": "Title",
+            "Description": "content.",
+            "ImageContent": ""
+        },
+        {
+            "Title": "Title",
+            "Description": "content.",
+            "ImageContent": ""
+        }
+    ]
+}

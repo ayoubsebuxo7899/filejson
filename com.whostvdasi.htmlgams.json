@@ -1,0 +1,64 @@
+{
+   "Ads":{
+      "AdMob":{
+         "activated":false,
+         "banner":"ca-app-pub-3940256099942544/6300978111",
+         "native":"ca-app-pub-3940256099942544/2247696110",
+         "interstitial":"ca-app-pub-3940256099942544/1033173712"
+      },
+      "FAN":{
+         "activated":false,
+         "banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "interstitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      },
+      "Yandex":{
+         "activated":true,
+         "banner":"R-M-1769218-1",
+         "native":"R-M-1769218-3",
+         "interstitial":"R-M-1769218-2"
+      },
+      "Unity":{
+         "activated":false,
+         "game_id":"R-M-DEMO-320x50",
+         "banner":"R-M-DEMO-native-i",
+         "interstitial":"R-M-DEMO-240x400-context"
+      },
+      "ironSource":{
+         "activated":false,
+         "app_key":"85460dcd"
+      },
+      "tapDaq":{
+         "activated":false,
+         "app_id":"xxxxxxxxxxxxxxxx",
+         "client_key":"xxxxxxxxxxxxxx",
+         "placement_tag":"default"
+      }
+   },
+   "Config":{
+      "app_version":"1.0",
+      "package_name":"com.stumblssd.nokenitra",
+      "onesignal_id":"3785f87a-0309-4e8e-99de-ead510baf870",
+      "loadingTime":5,
+      "privacy_dialog":false,
+      "privacy_url":"https://www.google.com/",
+      "rate_dialog":false
+   },
+   "GuideContent":[
+      {
+         "title":"How to Win Your Matches Easily",
+         "image":"https://cms-cdn.now.gg/cms-media/2022/02/nowgg_Stumble-Guys_EN_1.png",
+         "description":"Stumble Guys is a multiplayer game where we have to party with a multiplayer scenario, and this time it comes with a knockout system. We have to go through each level as they are becoming more and more struggling to deal and everything comes with a struggle and an obstacle. We have to pass this all chaos until there is a one-player remaining, and you as a player have to put your best efforts to become that victor.Failing to be a victor among these 32 players will cause us to start over and run again, and this time we are coming here to have unlimited running with more fun included for this multiplayer game. There are so many mini-games available here with an intention to be the last player for each of those matches. Becoming the last to win will never be easy because players have to compete with so many other players. So this Stumble Guys how to easily win your matches guide is created for you to make that process easier."
+      },
+      {
+         "title":"No Need to Be First",
+         "image":"https://cms-cdn.now.gg/cms-media/2022/02/nowgg_Stumble-Guys_EN_1.png",
+         "description":"Some rounds in the game generally ask players not to be first or not to reach their specific goal. They might ask you to survive rather than countering a winning from those matches. Usually, these rounds are not as easy as you thought, and they may be intense and more prolonged than we think. And these matches will become too complicated once you encounter another player who exactly knows what he does.You can take the mini-game Bombardment as an example here. Here, you can see a pirate boat, and it roams here and there with a bomb shooting. So we have to keep standing in this game and avoid those explosions and bombs the best we can, and we need to be standing by preventing ourselves from falling into the water."
+      },
+      {
+         "title":"Boost by Obstacles",
+         "image":"https://cms-cdn.now.gg/cms-media/2022/02/nowgg_Stumble-Guys_EN_1.png",
+         "description":"You can use two significant ways to have a boost in Stumble Guys by either sliding or running. But there is also another way to improve your progress, and those are the obstacles. Players can use their obstacles to boost themselves in this Stumble Guys game. There are so many mini-games featuring Stumble Guys with several obstacles, and crashing them can send you away to another location. But you can still be befitted from these obstacles.Some obstacles wind forward and backwards in some games, and those are specifically designed to push players backwards. So you can take advantage here by having serious attention because if you pass an obstacle, it will strive back at you. Use this occasion to move forward at the highest speed. So being careful enough to know how you can utilize these obstacles can actually benefit you throughout the gameplay as it makes you the victory soon."
+      }
+   ]
+}

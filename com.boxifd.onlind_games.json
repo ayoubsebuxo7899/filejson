@@ -1,0 +1,30 @@
+{
+    "GameUrl": "https://html5.gamedistribution.com/rvvASMiM/52f4fc2507214b74bb489fdc3b3accb8/index.html",
+    "Ads_Config": [
+        {
+            "Network": "huawei",
+            "Banner": "testw6vs28auh3",
+            "Interstitial": "testb4znbuh3n2",
+            "Native": "testy63txaom86",
+            "NativeBanner": "",
+            "AppId":""
+        }
+    ],
+    "Content": [
+        {
+            "Title": "Title",
+            "Description": "content.",
+            "ImageContent": ""
+        },
+        {
+            "Title": "Title",
+            "Description": "content.",
+            "ImageContent": ""
+        },
+        {
+            "Title": "Title",
+            "Description": "content.",
+            "ImageContent": ""
+        }
+    ]
+}

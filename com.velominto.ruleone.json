@@ -28,12 +28,7 @@
          "activated":false,
          "app_key":"85460dcd"
       },
-      "tapDaq":{
-         "activated":false,
-         "app_id":"xxxxxxxxxxxxxxxx",
-         "client_key":"xxxxxxxxxxxxxx",
-         "placement_tag":"default"
-      }
+   
    },
    "Config":{
       "app_version":"1.0",

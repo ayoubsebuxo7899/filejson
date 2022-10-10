@@ -28,9 +28,17 @@
          "activated":false,
          "app_key":"85460dcd"
       },
-    
+      
    },
-
+   "Config":{
+      "app_version":"1.0",
+      "package_name":"com.velominto.ruleone",
+      "onesignal_id":"3785f87a-0309-4e8e-99de-ead510baf870",
+      "loadingTime":5,
+      "privacy_dialog":false,
+      "privacy_url":"https://www.google.com/",
+      "rate_dialog":false
+   },
    "GuideContent":[
       {
          "title":"How to Win Your Matches Easily",

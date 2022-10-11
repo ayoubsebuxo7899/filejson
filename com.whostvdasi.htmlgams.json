@@ -7,13 +7,13 @@
          "interstitial":"ca-app-pub-3940256099942544/1033173712"
       },
       "FAN":{
-         "activated":false,
-         "banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "activated":true,
+         "banner":"1244665666390101_1250281152495219",
+         "native":"1244665666390101_1250281319161869",
          "interstitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
       },
       "Yandex":{
-         "activated":true,
+         "activated":false,
          "banner":"R-M-1962455-1",
          "native":"R-M-1962455-3",
          "interstitial":"R-M-1962455-2"

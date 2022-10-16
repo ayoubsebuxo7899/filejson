@@ -1,7 +1,7 @@
 {
    "Ads":{
       "AdMob":{
-         "activated":true,
+         "activated":false,
          "banner":"ca-app-pub-3940256099942544/6300978111",
          "native":"ca-app-pub-3940256099942544/2247696110",
          "interstitial":"ca-app-pub-3940256099942544/1033173712"
@@ -13,10 +13,10 @@
          "interstitial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
       },
       "Yandex":{
-         "activated":false,
-         "banner":"R-M-DEMO-320x50",
-         "native":"R-M-DEMO-native-i",
-         "interstitial":"R-M-DEMO-240x400-context"
+         "activated":true,
+         "banner":"R-M-1980061-1",
+         "native":"R-M-1980061-2",
+         "interstitial":"R-M-1980061-3"
       },
       "Unity":{
          "activated":false,

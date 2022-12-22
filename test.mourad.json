@@ -1,0 +1,79 @@
+{
+	"networks": {
+		"banner": [
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
+		],
+		"native": [
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
+
+		],
+		"interstitial": [
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
+		]
+	},
+	"facebook": {
+		"banner": "IMG_16_9_APP_INSTALL#",
+		"native": "IMG_16_9_APP_INSTALL#",
+		"interstitial": "IMG_16_9_APP_INSTALL#"
+	},
+	"admob": {
+		"publisher": "pub-3940256099942544",
+		"banner": "ca-app-pub-3940256099942544/6300978111",
+		"interstitial": "ca-app-pub-3940256099942544/1033173712",
+		"largeBanner": "ca-app-pub-3940256099942544/6300978111"
+	},
+	"yandex": {
+		"banner": "R-M-DEMO-320x50",
+		"native": "R-M-DEMO-native-i",
+		"interstitial": "R-M-DEMO-interstitial"
+	},
+	"pandle": {
+		"AppId": "8025677",
+		"Banner": "980099802",
+		"native": "980088216",
+		"interstitial": "980088188"
+	},
+	"ironsrc": "",
+
+	"Guide": [{
+			"title": "Guide For The .. ",
+			"Content": "thi is guide test. test..."
+		},
+		{
+			"title": "Guide For The .. ",
+			"Content": "thi is guide test. test..."
+		},
+		{
+			"title": "Guide For The .. ",
+			"Content": "thi is guide test. test..."
+		},
+		{
+			"title": "Guide For The .. ",
+			"Content": "thi is guide test. test..."
+		},
+		{
+			"title": "Guide For The .. ",
+			"Content": "thi is guide test. test..."
+		},
+		{
+			"title": "Guide For The .. ",
+			"Content": "thi is guide test. test..."
+		},
+		{
+			"title": "Guide For The .. ",
+			"Content": "thi is guide test. test..."
+		}
+	]
+}

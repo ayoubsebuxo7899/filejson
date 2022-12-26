@@ -1,0 +1,61 @@
+{
+  "AppDealKey": "5e259018844b7e434c79ec86e097dab830f6fc34ff603433",
+  "IronKey": "1114a0b95",
+  "StartAppId": "206262019",
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+  "YandexBannerUnitId": "R-M-DEMO-320x50",
+  "YandexInterUnitId": "R-M-DEMO-native-i",
+  "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
+  "YandexNativeUnitId": "R-M-DEMO-native-i",
+  "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "UnityGameID": "4395371",
+  "UnityBannerUnitId": "Banner_Android",
+  "BannerType": "Yandex",
+  "InterType": "Yandex",
+  "NativeType": "Yandex",
+  "IsAdmobON": true,
+  "IsFacebookON": true,
+  "IsIronON": true,
+  "IsYandexON": true,
+  "IsAppoDealON": true,
+  "IsStartAppON": true,
+  "IsUnityON": true,
+  "AppOnPending": false,
+  "GuideImg": "https://mezyanaa.com/ayoub/1.jpg",
+  "Guide": [
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    }
+  ]
+}

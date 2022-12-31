@@ -17,46 +17,46 @@
   "UnityGameID": "3812225",
   "UnityBannerUnitId": "Banner_Android",
   "UnityInterUnitId": "Android_Interstitial",
-  "BannerType": "Yandex",
-  "InterType": "Yandex",
-  "NativeType": "Yandex",
+  "BannerType": "Admob",
+  "InterType": "Admob",
+  "NativeType": "Admob",
   "IsAdmobON": true,
   "IsFacebookON": true,
   "IsIronON": true,
   "IsYandexON": true,
   "IsAppoDealON": true,
   "IsStartAppON": true,
-  "IsUnityON": false,
+  "IsUnityON": true,
   "AppOnPending": false,
   "GuideImg": "https://mezyanaa.com/ayoub/1.jpg",
   "Guide": [
     {
-      "title": "Guide For ayoub .. ",
-      "Content": "thi is guide test. test..."
+      "title": "Main Missions ",
+      "Content": "To beat Charles, you'll need to complete a set of key tasks, including finding three eggs guarded by bloodthirsty cultists and creating a trap to catch Charles off-guard. Below, you'll find links to all six of these key missions, with each guide including details on where to find the quest-giver, how to complete the task and how likely it is that Charles will interrupt your attempt.You now know your objective, to collect Choo-choo’s eggs. You can now study the map to identify the different missions present on the island. The yellow NPCs offer you essential side quests to improve your train. Red NPCs are missions to get extra weapons. Blue NPCs are the main missions. We recommend doing the side quests to improve the damage and speed of the train to the maximum. Conserve your resources to upgrade the train, don’t waste them fixing it."
     },
     {
-      "title": "Guide For The .. ",
-      "Content": "thi is guide test. test..."
+      "title": "North Mine Mystery",
+      "Content": "There's not much room for Charles' patrols to make this tougher than it naturally is. As with most mine missions, getting to and from the mine's entrance is slightly risky, as you'll be out in the open. But once you're inside, Charles can't do much to stop you... well, except whistle aggressively from outside. You should be clear to complete this without much Charles intervention.When entering the maze, take a right and follow the path until you arrive in a small area with a lever. Don't pull the lever just yet. Instead, hide behind the wooden wall opposite it. Wait for the cultist to pass by you and then follow him around the corner from a distance.."
     },
     {
-      "title": "Guide For The .. ",
-      "Content": "thi is guide test. test..."
+      "title": "A Mine, or A Tomb? ",
+      "Content": "During the early stages of this mission, there's not much room for Charles' patrols to make this tougher than it naturally is. As with most mine missions, getting to and from the mine's entrance is slightly risky, as you'll be out in the open. But once you're inside, Charles can't do much to stop you... well, except whistle aggressively from outside.However, upon escaping the mine at the tail-end of the mission, you'll find yourself stranded in the middle of nowhere. The hike back to your train is a prime Charles opportunity. If he's patrolling the area, he can easily swoop in during the walk back, and without much cover to aid you, you might be in trouble. If he's in the area, use the shelters directly next to the elevator used to escape the mine to keep away from him. You can run back to the train once he's gone."
     },
     {
-      "title": "Guide For The .. ",
-      "Content": "thi is guide test. test..."
+      "title": "Destruction Project ",
+      "Content": "When you arrive, proceed up the hill to the Aranearum Municipal Building and enter. Grab any scrap you find and proceed to the balcony on the second floor. There, you'll meet a man named Paul, who will let you in on a plan he's devised to take down Charles Head to the bridge and use the walkways leading down to the left and right of it. While on these precarious walkways, look for each of the main wooden supports. There are four on the left and four on the right. While aiming at them, a small indicator of an explosive should appear. Left click to place the explosive."
     },
     {
-      "title": "Guide For The .. ",
-      "Content": "thi is guide test. test..."
+      "title": "Finish It",
+      "Content": "When you're ready, it's time to bait Charles to his doom. Head to the temple in the centre of the map. It should be marked for you after completing the Destruction Project mission. It's shown on the map in the picture above.Interact with it to cue a short cutscene. During the sequence, the protagonist will place the eggs on the altar before being interrupted by Warren. After a tense exchange, you'll place the final egg, summoning Charles to fight to the death. However, this isn't regular Charles. The eggs will morph our favourite killer spider train into a bigger, scarier version of himself known as Hell Charles.Hell Charles Boss FightThe cutscene will conclude with us sprinting to our train. Once it ends, the final fight begins. This battle is essentially like every other Charles encounter you've had throughout the game. He'll chase you from behind, advancing slowly while you pour bullets into his smiling face.."
     },
     {
-      "title": "Guide For The .. ",
-      "Content": "thi is guide test. test..."
+      "title": "Ending",
+      "Content": "This guide will break down the ending of Choo Choo Charles, discussing the final story moments and that tantalizing after-credit teaser. After tracking Charles across the island, setting an explosive trap and uniting each of his three eggs, the player will be ready to take Charles on one final time.However, before they can add the final egg to the altar, they're confronted by Warren Charles III: the evil CEO of the mining facility and leader of the cultists. As the notes found around the island reveal to us, Warren is aiding Charles' growth, with the citizens of the island claiming he wants to grow an army of demon spider trains for his own gain. He attempts to stop the player, telling them that they need to consider what they're about to unleash."
     },
     {
-      "title": "Guide For The .. ",
-      "Content": "thi is guide test. test..."
+      "title": "Tutorial ",
+      "Content": "After watching the opening cutscene and learning a little more about why our protagonist is so keen to track down a steam train possessed by the spirit of an evil clown spider, you’ll arrive on a dock alongside the man that brought us to the island, Eugene. Use this time to get used to the controls, including sprinting with SHIFT and interacting with NPCs or objects with the mouse.After reconvening with Eugene, he'll introduce us to the steel companion that will be accompanying us for the entire game. The small train inside will serve as our home base, main weapon and getaway vehicle. In short, it's how we're going to bring down Charles and save the day."
     }
   ]
 }
